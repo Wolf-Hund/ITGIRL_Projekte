@@ -1,0 +1,436 @@
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: #165166;
+            color: #ffffff;
+}
+.flex {
+    display: flex;
+    flex-wrap: nowrap;
+}
+#logo {
+    margin-left: 152px;
+    margin-top: 44.39px;
+}
+#companyName {
+    margin-left: 11px;
+    margin-top: 57px;
+color: #ffffff;
+font-family: 'Poppins', sans-serif;
+font-size: 30px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+}
+.menu {
+    margin-top: 61px;
+    font-family: 'Poppins', sans-serif;
+font-size: 22px;
+font-weight: 500;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+color: #FFFFFF;
+background: #165166;
+}
+#home {
+    margin-left: 300px;
+}
+#about {
+    margin-left: 64.04px;
+}
+#product {
+    margin-left: 64.04px;
+}
+#plantsCare {
+    margin-left: 64.04px;
+}
+#suchen {
+margin-left: 300px;
+margin-right: 39.01px;
+margin-top: 65.97px;
+padding: 0;
+background-color: #165166;
+}
+#einkaufswagen {
+margin-right: 46px;
+margin-top: 65px;
+background-color: #165166;
+}
+#konto {
+margin-right: 152px;
+margin-top: 66.09px;
+background-color: #165166;
+}
+#grenze {
+margin-left: 124px;
+margin-right: 121px;
+margin-top: 38.97px;
+color: rgba(85, 85, 85, 0.2)
+}
+#container_1 {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding-left: 120px;
+    padding-right: 0px;
+    padding-top: 103px;
+    background-color: #165166;
+            color: #ffffff;
+}
+#container_2 {
+    min-width: max-content;
+    padding: 20px;
+}
+#stern {
+color: #FFFFFF;
+opacity: 20%;
+}
+#slogan {
+font-family: 'Poppins', sans-serif;
+    font-size: 82px;
+    font-weight: 700;
+    line-height: 90px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+#green {
+    font-family: 'Poppins', sans-serif;
+    font-size: 82px;
+    font-weight: 500;
+    line-height: 100px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #05FF00;
+}
+#explane {
+font-family: 'Poppins', sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: left;
+}
+#container_3 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    align-items: baseline;
+}
+.shoppen {
+    border-radius: 5px;
+background: #54C352;
+padding-top: 24px;
+padding-left: 48px;
+padding-bottom: 23px;
+padding-right: 49px;
+}
+#shoppen {
+font-family: 'Poppins', sans-serif;
+font-size: 22px;
+font-weight: 500;
+background-color: #54C352;
+color: #FFFFFF;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+}
+.explore {
+padding-left: 48px;
+padding-right: 30px;
+margin-left: 30px;
+}
+#explore {
+font-family: 'Poppins', sans-serif;
+font-size: 22px;
+font-weight: 500;
+background-color: #165166;
+color: #FFFFFF;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+text-decoration: none;
+}
+.arrow {
+    padding-top: 34px;
+padding-left: 0px;
+padding-bottom: 11px;
+padding-right: 49px;
+}
+#container_4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 150px;
+}
+.grüneZahlen {
+    font-family: 'Poppins', sans-serif;
+    font-size: 52px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+color: #05FF00; 
+}
+.unterschrift {
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #EFEFEF;
+}
+#container_5 {
+    margin-left: 30px;
+   padding-left: 30px;
+}
+#sterne {
+    color: #FFFFFF;
+    opacity: 20%;
+}
+#container_6 {
+    position: relative;
+}
+#flowerpot {
+   margin-top: 0px;
+   margin-right: 0px;
+}
+#leaves {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+#leaves2 {
+   position: absolute;
+right: 0;
+bottom: 64.47px;
+}
+.container_7 {
+    display: flex;
+    flex-direction: row;
+    background-color: #165166;
+            color: #ffffff;
+            padding-left: 140px;
+}
+#where {
+    font-family: 'Poppins', sans-serif;
+font-size: 32px;
+font-weight: 600;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 10px;
+}
+#arrowNetzwerke {
+    padding-left: 40px;
+}
+.container_8 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #165166;
+            color: #ffffff;
+}
+.container_8 nav {
+    display: flex;
+}
+.sozialeNetzwerke {
+padding: 20px 50px;
+text-decoration: none;
+font-family: 'Poppins', sans-serif;
+font-size: 50px;
+font-weight: 600;
+line-height: 75px;
+letter-spacing: 0em;
+color: #78A677;
+}
+.sozialeNetzwerke:hover {
+    background-color: aqua;
+}
+#section_2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#bsp {
+font-family: Poppins;
+font-size: 52px;
+font-weight: 700;
+line-height: 78px;
+letter-spacing: 0em;
+text-align: left;
+color: #000000;
+padding: 20px;
+}
+#text {
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000;
+padding: 5px 20px 80px;
+}
+#pflanzen {
+    display: flex;
+    flex-direction: row;
+   /*  Почему не работает?
+   justify-content: baseline; */
+margin-top: 200px;
+}
+#alocasiaPolly {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+#pflanzenBlock_1 {
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+background-color: #165166;
+padding: 170px 40px 50px;
+margin: 5px 60px 40px;
+}
+
+#alocasiaPolly img {
+   position: absolute;
+left: 100px;
+   top: -160px;
+}
+#polly  {
+font-size: 30px;
+font-family: Poppins;
+font-weight: 700;
+text-transform: uppercase;
+text-align: center;
+color: #FFFFFF;
+}
+#loremPolly{
+    color: #CDCDCD;
+text-align: center;
+font-size: 20px;
+font-family: Poppins;
+line-height: 30px;
+text-transform: capitalize;
+}
+#addToCart {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+#price {
+display: flex;
+flex-direction: row;
+padding-left: 10px;
+border-radius: 25px;
+background-color: #FFFFFF;
+align-items: center;
+}
+#price span {
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+color: #ff0000;
+}
+#add {
+margin-left: 10px;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+padding: 20px;
+border-radius: 25px;
+background-color: #54C352;
+}
+#add button {
+    height: 20px;
+width: 110px;
+left: 284px;
+top: 4854px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: center;
+background-color: #54C352;
+color: #FFFFFF;
+}
+#pflanzenBlock_2 {   
+    border-radius: 10px;
+background-color: #165166;
+padding: 170px 40px 50px;
+margin: 5px 60px 40px;
+}
+#peaceLily {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+#peaceLily img {
+    position: absolute;
+left: 120px;
+   top: -160px;
+}
+#lily {
+color: #FFF;
+font-size: 24px;
+font-family: Poppins;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+}
+#loremLily {
+color: #CDCDCD;
+text-align: center;
+font-size: 16px;
+font-family: Poppins;
+line-height: 24px;
+text-transform: capitalize;
+}
+
+#pflanzenBlock_3 {   
+    border-radius: 10px;
+background-color: #165166;
+padding: 70px 40px 50px;
+margin: 5px 60px 40px;
+}
+
+#camilleLily {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+#camilleLily img {
+    position: absolute;
+left: 100px;
+   top: -118px;
+}
+#camLily {
+font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: #FFFFFF;
+}
+#loremCamLily {
+    color: #CDCDCD;
+    text-align: center;
+    font-size: 12px;
+    font-family: Poppins;
+    line-height: 20px;
+    text-transform: capitalize;
+}

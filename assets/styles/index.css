@@ -146,7 +146,7 @@ line-height: 1.6em;
     grid-column: 3/4;
     font-weight: 400;
 }
-.downloadGoogle {
+.footerDownloadGoogle {
     display: grid;
     grid-template-columns: 1fr 3fr;
     align-items: center;
@@ -160,7 +160,7 @@ line-height: 1.6em;
     gap: 7px;
    border-radius: 4px
 }
-.downloadApple {
+.footerDownloadApple {
     display: grid;
     grid-template-columns: 1fr 3fr;
     align-items: center;
@@ -236,103 +236,46 @@ align-self: center;
 }
 .howSchritt_1 {
     grid-area: 3/1/4/2;
-    display: flex;
-    flex-direction: column;
-    justify-self: right;
-   /*  text-align: right; */
-}
-.wieGross1 {
-    width: 25%;
-    height: 25%;
-}
-.wiePunkt1 {
-    font-size: 1em;
-    font-family: 'Kanit', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5em;
-}
-.wieErklaerung1 {
-    color: #9E9DA2;
-font-size: 0.8em;
-font-family: 'Kanit', sans-serif;
-font-style: normal;
-font-weight: 400;
-line-height: 1em;
 }
 .howSchritt_2 {
     grid-area: 3/3/4/4;
-    display: flex;
-    flex-direction: column;
-    justify-self: left;
-}
-.wieGross2 {
-    width: 25%;
-    height: 25%;
-}
-.wiePunkt2 {
-    font-size: 1em;
-    font-family: 'Kanit', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5em;
-}
-.wieErklaerung2 {
-    color: #9E9DA2;
-font-size: 0.8em;
-font-family: 'Kanit', sans-serif;
-font-style: normal;
-font-weight: 400;
-line-height: 1em;
 }
 .howSchritt_3 {
     grid-area: 4/1/5/2;
-    display: flex;
-    flex-direction: column;
-    justify-self: right;
-}
-.wieGross3 {
-    width: 25%;
-    height: 25%;
-}
-.wiePunkt3 {
-    font-size: 1em;
-    font-family: 'Kanit', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.5em;
-}
-.wieErklaerung3 {
-    color: #9E9DA2;
-font-size: 0.8em;
-font-family: 'Kanit', sans-serif;
-font-style: normal;
-font-weight: 400;
-line-height: 1em;
 }
 .howSchritt_4 {
     grid-area: 4/3/5/4;
-    flex-direction: column;
-    justify-self: left;
 }
-.wieGross4 {
+.wieGross {
     width: 25%;
     height: 25%;
 }
-.wiePunkt4 {
+.wiePunkt {
     font-size: 1em;
     font-family: 'Kanit', sans-serif;
     font-style: normal;
     font-weight: 500;
     line-height: 1.5em;
 }
-.wieErklaerung4 {
+.wieErklaerung {
     color: #9E9DA2;
 font-size: 0.8em;
 font-family: 'Kanit', sans-serif;
 font-style: normal;
 font-weight: 400;
 line-height: 1em;
+}
+.gemeinsameSchritteLinks {
+    display: flex;
+    flex-direction: column;
+    justify-self: right;
+    align-items: flex-end;
+    text-align: end;
+}
+.gemeinsameSchritteRechts {
+    display: flex;
+    flex-direction: column;
+    justify-self: left;
 }
 .punkte {
     grid-area: 5/1/6/4;

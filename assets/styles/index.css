@@ -1,0 +1,34 @@
+body {
+    overflow-y: scroll;
+}
+
+.navbar {
+    margin: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.col-cards {
+    width: 80%;
+}
+.card-oben {
+    background: rgb(233, 234, 235);
+}
+
+.card-oben-title {
+    font-size: 3.5rem;
+    font-weight: 300;
+}
+
+footer {
+    display: flex;
+    margin: 15px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.footer-display {
+    display: flex;
+    color: white;
+    padding-top: 1em;
+    align-items: end;
+}

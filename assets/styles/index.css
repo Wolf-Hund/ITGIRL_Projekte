@@ -81,7 +81,7 @@ main {
 .hauptseite-bild {
     grid-area: 2/2/3/3;
     display: grid;
-    width: 50vw;
+    width: 50%;
 }
 .hauptseite-bild__bild {
     height: 65vh;
